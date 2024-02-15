@@ -1,0 +1,52 @@
+{
+  "1": {
+    "_id": "2474866a-82d5-455b-b71a-5f1e02f69f20",
+    "ItemName": "Switches",
+    "ItemDescription": "Classic silver coated switches of 30mm inline width",
+    "AvailableQuantity": "21",
+    "ItemPrice": 2000,
+    "Location": "India"
+  },
+  "Inventories": [
+    {
+      "_id": "bae54006-3358-47d4-abd4-0e244ad7ff7a",
+      "ItemName": "Electric Sockets",
+      "ItemDescription": "Mini 2.5 length electric metallic sockets",
+      "AvailableQuantity": "11",
+      "ItemPrice": 1500,
+      "Location": "India"
+    },
+    {
+      "_id": "2474866a-82d5-455b-b71a-5f1e02f69f20",
+      "ItemName": "Switches",
+      "ItemDescription": "Classic silver coated switches of 30mm inline width",
+      "AvailableQuantity": "23",
+      "ItemPrice": 2000,
+      "Location": "India"
+    },
+    {
+      "_id": "645df8d5-2dd8-4f36-aa54-30b2a4059135",
+      "ItemName": "DC Motors",
+      "ItemDescription": "Power motors of high durable internal pumping",
+      "ItemPrice": 6000,
+      "AvailableQuantity": 50,
+      "Location": "India"
+    },
+    {
+      "_id": "db61f8a8-7807-4b8f-8fce-7d8093d61c6e",
+      "ItemName": "LED Lights",
+      "ItemDescription": "5m lights of 3 color combinations",
+      "ItemPrice": 500,
+      "AvailableQuantity": 60,
+      "Location": "India"
+    },
+    {
+      "_id": "dd04a7df-948f-4da9-8be3-86a5cd33c3b3",
+      "ItemName": "LAN Cables",
+      "ItemDescription": "Temperature resistance cables",
+      "AvailableQuantity": 80,
+      "ItemPrice": 300,
+      "Location": "India"
+    }
+  ]
+}
